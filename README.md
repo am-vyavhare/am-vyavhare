@@ -22,8 +22,7 @@
 ---
 
 ## 🧠 Currently Working On
-- Learning advanced **React.js** and integrating it with Django
-- Personal portfolio website (in progress)
+- Learning Next.js and other web dev technologies integrating it with AI and ML systems
 - Exploring **machine learning** use cases in web apps
 
 ---
