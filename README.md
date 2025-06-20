@@ -35,6 +35,10 @@
 
 ## 🚀 Projects
 
+### 📵 [DigitalDetox](https://github.com/am-vyavhare/DigitalDetox_Showcase)
+Kotlin-based Android app for mindful mobile usage and screen-time control. 
+Integrated Jetpack Compose, Firebase, and MVVM to manage state, data, and logic separation
+
 ### 🔮 [GrowGenius](https://github.com/am-vyavhare/GrowGenius_Showcase)
 AI-powered Agri platform with crop prediction, disease detection & smart fertilizer suggestions.
 
